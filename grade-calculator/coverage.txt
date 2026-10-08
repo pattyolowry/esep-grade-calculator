@@ -25,3 +25,7 @@ esep/grade-calculator/grade_calculator.go:87.2,88.1 2 1
 esep/grade-calculator/grade_calculator.go:89.2,89.31 2 1
 esep/grade-calculator/grade_calculator.go:90.3,91.1 1 1
 esep/grade-calculator/grade_calculator.go:93.2,93.26 1 1
+esep/grade-calculator/grade_calculator.go:97.2,98.1 2 1
+esep/grade-calculator/grade_calculator.go:99.2,99.26 2 1
+esep/grade-calculator/grade_calculator.go:100.3,101.1 1 1
+esep/grade-calculator/grade_calculator.go:103.2,103.15 1 1
